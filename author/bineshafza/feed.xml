@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="/en/tag/getting-started/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/en/author/bineshafza/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/en/" rel="alternate" type="text/html" />
   <updated>2018-10-10T18:39:04+00:00</updated>
-  <id>/en/tag/getting-started/feed.xml</id>
+  <id>/en/author/bineshafza/feed.xml</id>
 
   
   
