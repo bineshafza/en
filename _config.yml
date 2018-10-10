@@ -95,3 +95,41 @@ exclude:
   - changelog.md
   - "*.Rmd"
   - .git*
+
+defaults:
+  # News
+  - scope:
+      path: "_posts/news"
+      type: posts
+    values:
+      class: post-template
+      navigation: True
+      layout: post
+      current: post
+      permalink: news/:year/:month/:day/:title
+      category: news
+      catname: News
+  # Blog
+  - scope:
+      path: "_posts/blog"
+      type: posts
+    values:
+      class: post-template
+      navigation: True
+      layout: post
+      current: post
+      permalink: blog/:title
+      category: blog
+      catname: Blog
+  # Classes
+  - scope:
+      path: "_posts/classes"
+      type: posts
+    values:
+      class: post-template
+      navigation: True
+      layout: post
+      current: post
+      permalink: classes/:title
+      category: classes
+      catname: Classes

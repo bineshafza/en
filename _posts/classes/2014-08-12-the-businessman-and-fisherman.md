@@ -1,0 +1,12 @@
+---
+cover: assets/images/posts/water.jpg
+title: EPT/MSRT Preparation Course
+date: 2018-08-12 10:18:00
+tags: Exam
+subclass: 'post tag-fables'
+logo: assets/images/ghost.png
+author: bahramhossein
+---
+
+EPT (English Proficiency Test) is launched by Islamic Azad University (IAU) for PhD test takers to examine their proficiency in English language. The exam including 25 questions on vocabulary, 40 questions on grammatical points and 35 questions on comprehensive reading. The exam doesn’t have negative scores and exam pass score is 50% of total score.
+Research and development center of IAU noted following text books as reference for this exam: 
