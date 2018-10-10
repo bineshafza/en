@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/en/tag/getting-started/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/en/" rel="alternate" type="text/html" />
-  <updated>2018-10-10T18:39:04+00:00</updated>
+  <updated>2018-10-10T18:56:00+00:00</updated>
   <id>/en/tag/getting-started/feed.xml</id>
 
   
@@ -16,7 +16,7 @@
   
 
   
-    <subtitle>Specialied Classes</subtitle>
+    <subtitle>Learn English Easily With Us</subtitle>
   
 
   
@@ -35,11 +35,11 @@
   
     <entry>
       <title type="html">Business English Course</title>
-      <link href="/en/classes/the-editor" rel="alternate" type="text/html" title="Business English Course" />
+      <link href="/en/classes/bec" rel="alternate" type="text/html" title="Business English Course" />
       <published>2018-07-27T09:00:00+00:00</published>
       <updated>2018-07-27T09:00:00+00:00</updated>
-      <id>/en/classes/the-editor</id>
-      <content type="html" xml:base="/en/classes/the-editor">BEC is a well-recognized international certificate that launched by Cambridge English. The aim of test is to examine English Skills in a business context.
+      <id>/en/classes/bec</id>
+      <content type="html" xml:base="/en/classes/bec">BEC is a well-recognized international certificate that launched by Cambridge English. The aim of test is to examine English Skills in a business context.
 There are three levels of BEC:
 1- BEC Preliminary (B1): to understand routine letters, make notes, follow basic presentations and advise clients on simple matters. (Prerequisite: Intermediate level of Professional trade language Course)
 2- BEC Vantage (B2): to understand the general meaning of reports, write non-routine letters and present arguments. (Prerequisite: Upper-Intermediate level of Professional trade language Course)
@@ -78,11 +78,11 @@ You are expected to have an intermediate level of knowledge in English language 
   
     <entry>
       <title type="html">IELTS/TOEFL/PTE</title>
-      <link href="/en/classes/advanced-markdown" rel="alternate" type="text/html" title="IELTS/TOEFL/PTE" />
+      <link href="/en/classes/IELTS-TOEFL-PTE" rel="alternate" type="text/html" title="IELTS/TOEFL/PTE" />
       <published>2018-07-27T05:00:00+00:00</published>
       <updated>2018-07-27T05:00:00+00:00</updated>
-      <id>/en/classes/advanced-markdown</id>
-      <content type="html" xml:base="/en/classes/advanced-markdown">Beyond conventional test prep programs
+      <id>/en/classes/IELTS-TOEFL-PTE</id>
+      <content type="html" xml:base="/en/classes/IELTS-TOEFL-PTE">Beyond conventional test prep programs
 Binesh Afza’s preparation class courses focus on enabling students to understand the content in-depth rather than a download of voluminous basic knowledge interspersed with tricks. Our difference lies in the fact that we care about the students’ literacy as well. Instead of parroting the empty, low-scoring fixed expressions and mechanical constructs, we help you brainstorm and develop your own ideas in your own genuine style. The course also includes a review of grammar and free discussion sessions.
 Last but not least, fifty percent of the tuition is refundable if the course fails to help you achieve the band score you need.</content>
 
@@ -116,11 +116,11 @@ Last but not least, fifty percent of the tuition is refundable if the course fai
   
     <entry>
       <title type="html">Teaching Training Course</title>
-      <link href="/en/classes/themes" rel="alternate" type="text/html" title="Teaching Training Course" />
+      <link href="/en/classes/ttc" rel="alternate" type="text/html" title="Teaching Training Course" />
       <published>2018-07-27T04:00:00+00:00</published>
       <updated>2018-07-27T04:00:00+00:00</updated>
-      <id>/en/classes/themes</id>
-      <content type="html" xml:base="/en/classes/themes">TTC prepare students with advanced English Skills for teaching adults or children. Students can choose to teach either Adult Learner (AL) or Young Learner (YL) based on their interest in handling different type of challenges they face for each group.
+      <id>/en/classes/ttc</id>
+      <content type="html" xml:base="/en/classes/ttc">TTC prepare students with advanced English Skills for teaching adults or children. Students can choose to teach either Adult Learner (AL) or Young Learner (YL) based on their interest in handling different type of challenges they face for each group.
 Binesh Afza Language Institute will issue worldwide recognized TTC certificate under International Labor Organization (ILO) license. This certificate is valid in 187 countries worldwide including but not limited to USA, England, Australia, Canada and most of European countries. TTC certificate can be verified by your potential employer through your TTC certificate international code and the certificate doesn’t need to be translated.
 TTC Course will help students to identify:</content>
 
@@ -153,8 +153,8 @@ TTC Course will help students to identify:</content>
     </entry>
   
     <entry>
-      <title type="html">Welcome to Ghost</title>
-      <link href="/en/news/2017/07/27/welcome" rel="alternate" type="text/html" title="Welcome to Ghost" />
+      <title type="html">English Podcast</title>
+      <link href="/en/news/2017/07/27/welcome" rel="alternate" type="text/html" title="English Podcast" />
       <published>2017-07-27T10:00:00+00:00</published>
       <updated>2017-07-27T10:00:00+00:00</updated>
       <id>/en/news/2017/07/27/welcome</id>
