@@ -5,3 +5,11 @@ Gemfile.lock
 package-lock.json
 node_modules/
 .DS_Store
+assets/built/syntax.css.map
+assets/built/global.css
+assets/built/global.css.map
+assets/built/screen.css
+assets/built/screen.css.map
+assets/built/screen.edited.css
+assets/built/screen.edited.css.map
+assets/built/syntax.css
