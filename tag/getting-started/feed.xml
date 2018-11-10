@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/en/tag/getting-started/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/en/" rel="alternate" type="text/html" />
-  <updated>2018-11-05T18:58:35+00:00</updated>
+  <updated>2018-11-10T18:52:33+00:00</updated>
   <id>/en/tag/getting-started/feed.xml</id>
 
   
@@ -154,11 +154,11 @@ TTC Course will help students to identify:</content>
   
     <entry>
       <title type="html">English Podcast</title>
-      <link href="/en/news/2017/07/27/welcome" rel="alternate" type="text/html" title="English Podcast" />
+      <link href="/en/news/welcome" rel="alternate" type="text/html" title="English Podcast" />
       <published>2017-07-27T10:00:00+00:00</published>
       <updated>2017-07-27T10:00:00+00:00</updated>
-      <id>/en/news/2017/07/27/welcome</id>
-      <content type="html" xml:base="/en/news/2017/07/27/welcome">&lt;p&gt;Hey! Welcome to Ghost, it’s great to have you :)&lt;/p&gt;
+      <id>/en/news/welcome</id>
+      <content type="html" xml:base="/en/news/welcome">&lt;p&gt;Hey! Welcome to Ghost, it’s great to have you :)&lt;/p&gt;
 
 &lt;p&gt;We know that first impressions are important, so we’ve populated your new site with some initial &lt;strong&gt;Getting Started&lt;/strong&gt; posts that will help you get familiar with everything in no time. This is the first one!&lt;/p&gt;
 
@@ -205,11 +205,11 @@ TTC Course will help students to identify:</content>
   
     <entry>
       <title type="html">Organising your content with tags</title>
-      <link href="/en/news/2017/07/27/using-tags" rel="alternate" type="text/html" title="Organising your content with tags" />
+      <link href="/en/news/using-tags" rel="alternate" type="text/html" title="Organising your content with tags" />
       <published>2017-07-27T08:00:00+00:00</published>
       <updated>2017-07-27T08:00:00+00:00</updated>
-      <id>/en/news/2017/07/27/using-tags</id>
-      <content type="html" xml:base="/en/news/2017/07/27/using-tags">&lt;p&gt;Ghost has a single, powerful organisational taxonomy, called tags.&lt;/p&gt;
+      <id>/en/news/using-tags</id>
+      <content type="html" xml:base="/en/news/using-tags">&lt;p&gt;Ghost has a single, powerful organisational taxonomy, called tags.&lt;/p&gt;
 &lt;p&gt;It doesn't matter whether you want to call them categories, tags, boxes, or anything else. You can think of Ghost tags a lot like Gmail labels. By tagging posts with one or more keyword, you can organise articles into buckets of related content.&lt;/p&gt;
 &lt;h2 id=&quot;basictagging&quot;&gt;Basic tagging&lt;/h2&gt;
 &lt;p&gt;When you write a post, you can assign tags to help differentiate between categories of content. For example, you might tag some posts with &lt;code&gt;News&lt;/code&gt; and other posts with &lt;code&gt;Cycling&lt;/code&gt;, which would create two distinct categories of content listed on &lt;code&gt;/tag/news/&lt;/code&gt; and &lt;code&gt;/tag/cycling/&lt;/code&gt;, respectively.&lt;/p&gt;
@@ -266,11 +266,11 @@ TTC Course will help students to identify:</content>
   
     <entry>
       <title type="html">Making your site private</title>
-      <link href="/en/news/2017/07/27/private-sites" rel="alternate" type="text/html" title="Making your site private" />
+      <link href="/en/news/private-sites" rel="alternate" type="text/html" title="Making your site private" />
       <published>2017-07-27T06:00:00+00:00</published>
       <updated>2017-07-27T06:00:00+00:00</updated>
-      <id>/en/news/2017/07/27/private-sites</id>
-      <content type="html" xml:base="/en/news/2017/07/27/private-sites">&lt;p&gt;Sometimes you might want to put your site behind closed doors&lt;/p&gt;
+      <id>/en/news/private-sites</id>
+      <content type="html" xml:base="/en/news/private-sites">&lt;p&gt;Sometimes you might want to put your site behind closed doors&lt;/p&gt;
 &lt;p&gt;If you've got a publication that you don't want the world to see yet because it's not ready to launch, you can hide your Ghost site behind a simple shared pass-phrase.&lt;/p&gt;
 &lt;p&gt;You can toggle this preference on at the bottom of Ghost's General Settings&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://casper.ghost.org/v1.0.0/images/private.png&quot; alt=&quot;private&quot;&gt;&lt;/p&gt;
