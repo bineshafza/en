@@ -106,7 +106,7 @@ defaults:
       navigation: True
       layout: post
       current: post
-      permalink: news/:year/:month/:day/:title
+      permalink: news/:title
       category: news
       catname: News
   # Blog
