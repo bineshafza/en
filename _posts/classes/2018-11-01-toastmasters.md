@@ -1,6 +1,6 @@
 ---
 title: Toastmasters
-date: 2018-11-01 00:00:00 +0000
+date: 2018-11-01 03:30:00 +0330
 subclass: ''
 cover: "/uploads/download (1).jpg"
 tags: []
