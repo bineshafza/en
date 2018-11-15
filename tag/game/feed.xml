@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="/en/tag/game/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/en/" rel="alternate" type="text/html" />
+  <updated>2018-11-15T13:30:36+00:00</updated>
+  <id>/en/tag/game/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Binesh Afza | </title>
+  
+
+  
+    <subtitle>Learn English Easily With Us</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Game Day</title>
+      <link href="/en/news/game-day" rel="alternate" type="text/html" title="Game Day" />
+      <published>2018-11-14T15:09:00+00:00</published>
+      <updated>2018-11-14T15:09:00+00:00</updated>
+      <id>/en/news/game-day</id>
+      <content type="html" xml:base="/en/news/game-day">&lt;p&gt;Game day on Friday.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/download (1).jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Bineshafza</name>
+        
+        
+      </author>
+
+      
+        <category term="news" />
+      
+
+      
+        <category term="game" />
+      
+
+      
+        <summary type="html">Game day on Friday.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
