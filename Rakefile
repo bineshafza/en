@@ -26,18 +26,18 @@ namespace :site do
   desc "Generate the site"
   task :build do
     check_destination
-    sh "bundle exec jekyll build"
+    sh "bundle exec jekyll build --verbose"
   end
 
   desc "Generate the site and serve locally"
   task :serve do
     check_destination
-    sh "bundle exec jekyll serve"
+    sh "bundle exec jekyll serve --verbose"
   end
 
   desc "Generate the site, serve locally and watch for changes"
   task :watch do
-    sh "bundle exec jekyll serve --watch"
+    sh "bundle exec jekyll serve --watch --verbose"
   end
 
   desc "Generate the site and push changes to remote origin"
@@ -62,7 +62,7 @@ namespace :site do
     Dir.chdir(CONFIG["destination"]) { sh "git checkout #{DESTINATION_BRANCH}" }
 
     # Generate the site
-    sh "bundle exec jekyll build"
+    sh "bundle exec jekyll build --verbose"
 
     # Commit and push to github
     sha = `git log`.match(/[a-z0-9]{40}/)[0]
