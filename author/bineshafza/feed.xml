@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/en/author/bineshafza/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/en/" rel="alternate" type="text/html" />
-  <updated>2018-11-15T19:12:15+00:00</updated>
+  <updated>2018-11-15T22:49:52+03:30</updated>
   <id>/en/author/bineshafza/feed.xml</id>
 
   
@@ -34,10 +34,46 @@
 
   
     <entry>
+      <title type="html">Game Day</title>
+      <link href="/en/news/game-day" rel="alternate" type="text/html" title="Game Day" />
+      <published>2018-11-15T22:24:00+03:30</published>
+      <updated>2018-11-15T22:24:00+03:30</updated>
+      <id>/en/news/game-day</id>
+      <content type="html" xml:base="/en/news/game-day">&lt;p&gt;12313&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Bineshafza</name>
+        
+        
+      </author>
+
+      
+        <category term="news" />
+      
+
+      
+        <category term="hello" />
+      
+
+      
+        <summary type="html">12313</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
       <title type="html">test</title>
       <link href="/en/blog/test" rel="alternate" type="text/html" title="test" />
-      <published>2018-11-14T19:35:00+00:00</published>
-      <updated>2018-11-14T19:35:00+00:00</updated>
+      <published>2018-11-14T19:35:00+03:30</published>
+      <updated>2018-11-14T19:35:00+03:30</updated>
       <id>/en/blog/test</id>
       <content type="html" xml:base="/en/blog/test">&lt;p&gt;&lt;img src=&quot;/en/assets/images/posts/water.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content>
 
@@ -72,8 +108,8 @@
     <entry>
       <title type="html">EPT/MSRT Preparation Course</title>
       <link href="/en/classes/EPT-MSRT" rel="alternate" type="text/html" title="EPT/MSRT Preparation Course" />
-      <published>2018-08-12T10:18:00+00:00</published>
-      <updated>2018-08-12T10:18:00+00:00</updated>
+      <published>2018-08-12T14:48:00+04:30</published>
+      <updated>2018-08-12T14:48:00+04:30</updated>
       <id>/en/classes/EPT-MSRT</id>
       <content type="html" xml:base="/en/classes/EPT-MSRT">&lt;p&gt;EPT (English Proficiency Test) is launched by Islamic Azad University (IAU) for PhD test takers to examine their proficiency in English language. The exam including 25 questions on vocabulary, 40 questions on grammatical points and 35 questions on comprehensive reading. The exam doesn’t have negative scores and exam pass score is 50% of total score.
 Research and development center of IAU noted following text books as reference for this exam:&lt;/p&gt;</content>
@@ -109,8 +145,8 @@ Research and development center of IAU noted following text books as reference f
     <entry>
       <title type="html">Business English Course</title>
       <link href="/en/classes/bec" rel="alternate" type="text/html" title="Business English Course" />
-      <published>2018-07-27T09:00:00+00:00</published>
-      <updated>2018-07-27T09:00:00+00:00</updated>
+      <published>2018-07-27T13:30:00+04:30</published>
+      <updated>2018-07-27T13:30:00+04:30</updated>
       <id>/en/classes/bec</id>
       <content type="html" xml:base="/en/classes/bec">BEC is a well-recognized international certificate that launched by Cambridge English. The aim of test is to examine English Skills in a business context.
 There are three levels of BEC:
@@ -152,8 +188,8 @@ You are expected to have an intermediate level of knowledge in English language 
     <entry>
       <title type="html">IELTS/TOEFL/PTE</title>
       <link href="/en/classes/IELTS-TOEFL-PTE" rel="alternate" type="text/html" title="IELTS/TOEFL/PTE" />
-      <published>2018-07-27T05:00:00+00:00</published>
-      <updated>2018-07-27T05:00:00+00:00</updated>
+      <published>2018-07-27T09:30:00+04:30</published>
+      <updated>2018-07-27T09:30:00+04:30</updated>
       <id>/en/classes/IELTS-TOEFL-PTE</id>
       <content type="html" xml:base="/en/classes/IELTS-TOEFL-PTE">Beyond conventional test prep programs
 Binesh Afza’s preparation class courses focus on enabling students to understand the content in-depth rather than a download of voluminous basic knowledge interspersed with tricks. Our difference lies in the fact that we care about the students’ literacy as well. Instead of parroting the empty, low-scoring fixed expressions and mechanical constructs, we help you brainstorm and develop your own ideas in your own genuine style. The course also includes a review of grammar and free discussion sessions.
@@ -190,8 +226,8 @@ Last but not least, fifty percent of the tuition is refundable if the course fai
     <entry>
       <title type="html">Teaching Training Course</title>
       <link href="/en/classes/ttc" rel="alternate" type="text/html" title="Teaching Training Course" />
-      <published>2018-07-27T04:00:00+00:00</published>
-      <updated>2018-07-27T04:00:00+00:00</updated>
+      <published>2018-07-27T08:30:00+04:30</published>
+      <updated>2018-07-27T08:30:00+04:30</updated>
       <id>/en/classes/ttc</id>
       <content type="html" xml:base="/en/classes/ttc">TTC prepare students with advanced English Skills for teaching adults or children. Students can choose to teach either Adult Learner (AL) or Young Learner (YL) based on their interest in handling different type of challenges they face for each group.
 Binesh Afza Language Institute will issue worldwide recognized TTC certificate under International Labor Organization (ILO) license. This certificate is valid in 187 countries worldwide including but not limited to USA, England, Australia, Canada and most of European countries. TTC certificate can be verified by your potential employer through your TTC certificate international code and the certificate doesn’t need to be translated.
@@ -228,8 +264,8 @@ TTC Course will help students to identify:</content>
     <entry>
       <title type="html">English Podcast</title>
       <link href="/en/news/welcome" rel="alternate" type="text/html" title="English Podcast" />
-      <published>2017-07-27T10:00:00+00:00</published>
-      <updated>2017-07-27T10:00:00+00:00</updated>
+      <published>2017-07-27T14:30:00+04:30</published>
+      <updated>2017-07-27T14:30:00+04:30</updated>
       <id>/en/news/welcome</id>
       <content type="html" xml:base="/en/news/welcome">&lt;p&gt;Hey! Welcome to Ghost, it’s great to have you :)&lt;/p&gt;
 
@@ -279,8 +315,8 @@ TTC Course will help students to identify:</content>
     <entry>
       <title type="html">Organising your content with tags</title>
       <link href="/en/news/using-tags" rel="alternate" type="text/html" title="Organising your content with tags" />
-      <published>2017-07-27T08:00:00+00:00</published>
-      <updated>2017-07-27T08:00:00+00:00</updated>
+      <published>2017-07-27T12:30:00+04:30</published>
+      <updated>2017-07-27T12:30:00+04:30</updated>
       <id>/en/news/using-tags</id>
       <content type="html" xml:base="/en/news/using-tags">&lt;p&gt;Ghost has a single, powerful organisational taxonomy, called tags.&lt;/p&gt;
 &lt;p&gt;It doesn't matter whether you want to call them categories, tags, boxes, or anything else. You can think of Ghost tags a lot like Gmail labels. By tagging posts with one or more keyword, you can organise articles into buckets of related content.&lt;/p&gt;
@@ -340,8 +376,8 @@ TTC Course will help students to identify:</content>
     <entry>
       <title type="html">Making your site private</title>
       <link href="/en/news/private-sites" rel="alternate" type="text/html" title="Making your site private" />
-      <published>2017-07-27T06:00:00+00:00</published>
-      <updated>2017-07-27T06:00:00+00:00</updated>
+      <published>2017-07-27T10:30:00+04:30</published>
+      <updated>2017-07-27T10:30:00+04:30</updated>
       <id>/en/news/private-sites</id>
       <content type="html" xml:base="/en/news/private-sites">&lt;p&gt;Sometimes you might want to put your site behind closed doors&lt;/p&gt;
 &lt;p&gt;If you've got a publication that you don't want the world to see yet because it's not ready to launch, you can hide your Ghost site behind a simple shared pass-phrase.&lt;/p&gt;
