@@ -1,5 +1,9 @@
 ---
 title: teest
 date: 2018-11-15 18:27
+subclass: ''
+cover: "/assets/images/posts/bear.jpg"
+tags: []
+author: ''
 
 ---
