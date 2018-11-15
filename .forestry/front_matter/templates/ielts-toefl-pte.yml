@@ -34,6 +34,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/blog/2018-11-15-tesss.md
 - _posts/news/2018-11-15-teest.md
 - _posts/news/2018-11-15-game-day.md
 - _posts/classes/2018-11-01-toastmasters.md
