@@ -1,5 +1,11 @@
 ---
 title: Game Day
 date: 2018-11-15 17:29
+subclass: ''
+cover: "/assets/images/posts/workshop.png"
+tags:
+- 'hello '
+author: bineshafza
 
 ---
+![](/en/assets/images/posts/water.jpg)![](/en/assets/images/posts/design.jpg)
