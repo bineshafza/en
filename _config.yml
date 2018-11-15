@@ -79,6 +79,7 @@ port: 4001
 
 
 exclude:
+  - archive
   - assets/css
   - node_modules
   - vendor
