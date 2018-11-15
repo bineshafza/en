@@ -73,8 +73,8 @@ lsi: False
 username: bineshafza
 repo: en
 branch: master
-relative_source: ../en/
-destination: _site/
+#relative_source: ../en/
+#destination: 
 port: 4001
 
 
