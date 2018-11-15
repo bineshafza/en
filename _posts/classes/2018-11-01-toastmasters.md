@@ -1,8 +1,8 @@
 ---
 title: Toastmasters
-date: 2018-11-01 03:30:00 +0330
+date: 2018-11-01 00:00:00 +0000
 subclass: ''
-cover: "/uploads/download (1).jpg"
+cover: "/assets/images/posts/advanced.jpg"
 tags: []
 author: Bineshafza
 
