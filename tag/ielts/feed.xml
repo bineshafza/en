@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="/en/tag/ielts/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="/en/" rel="alternate" type="text/html" />
-  <updated>2018-11-10T22:19:52+00:00</updated>
-  <id>/en/tag/ielts/feed.xml</id>
+  <link href="http://localhost:4001/en/tag/ielts/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4001/en/" rel="alternate" type="text/html" />
+  <updated>2018-11-15T18:41:30+03:30</updated>
+  <id>http://localhost:4001/en/tag/ielts/feed.xml</id>
 
   
   
@@ -35,11 +35,11 @@
   
     <entry>
       <title type="html">Writing Essay (Part 2)</title>
-      <link href="/en/blog/IELTS-Essay-2" rel="alternate" type="text/html" title="Writing Essay (Part 2)" />
-      <published>2018-10-09T10:18:00+00:00</published>
-      <updated>2018-10-09T10:18:00+00:00</updated>
-      <id>/en/blog/IELTS-Essay-2</id>
-      <content type="html" xml:base="/en/blog/IELTS-Essay-2">&lt;p&gt;When facing a writing task, there are five possible forms of questions. We’ll help you have an idea of what to do with the question. These are the five types:
+      <link href="http://localhost:4001/en/blog/IELTS-Essay-2" rel="alternate" type="text/html" title="Writing Essay (Part 2)" />
+      <published>2018-10-09T13:48:00+03:30</published>
+      <updated>2018-10-09T13:48:00+03:30</updated>
+      <id>http://localhost:4001/en/blog/IELTS-Essay-2</id>
+      <content type="html" xml:base="http://localhost:4001/en/blog/IELTS-Essay-2">&lt;p&gt;When facing a writing task, there are five possible forms of questions. We’ll help you have an idea of what to do with the question. These are the five types:
 Opinion Essay Questions
  Discussion Essay Questions
 Solution Essay Questions
@@ -79,11 +79,11 @@ Each of them will be explained one by one in the coming weeks.&lt;/p&gt;</conten
   
     <entry>
       <title type="html">Writing Essay</title>
-      <link href="/en/blog/IELTS-Essay" rel="alternate" type="text/html" title="Writing Essay" />
-      <published>2018-10-08T10:18:00+00:00</published>
-      <updated>2018-10-08T10:18:00+00:00</updated>
-      <id>/en/blog/IELTS-Essay</id>
-      <content type="html" xml:base="/en/blog/IELTS-Essay">&lt;p&gt;For writing a good essay, there are many steps you need to take. But before taking those steps you need to be informed on the topics. The most frequent topics are:
+      <link href="http://localhost:4001/en/blog/IELTS-Essay" rel="alternate" type="text/html" title="Writing Essay" />
+      <published>2018-10-08T13:48:00+03:30</published>
+      <updated>2018-10-08T13:48:00+03:30</updated>
+      <id>http://localhost:4001/en/blog/IELTS-Essay</id>
+      <content type="html" xml:base="http://localhost:4001/en/blog/IELTS-Essay">&lt;p&gt;For writing a good essay, there are many steps you need to take. But before taking those steps you need to be informed on the topics. The most frequent topics are:
 Art&lt;/p&gt;
 
 &lt;p&gt;Business &amp;amp; Money&lt;/p&gt;
@@ -162,11 +162,11 @@ Art&lt;/p&gt;
   
     <entry>
       <title type="html">A Full and Comprehensive Style Test</title>
-      <link href="/en/blog/a-full-and-comprehensive-style-test" rel="alternate" type="text/html" title="A Full and Comprehensive Style Test" />
-      <published>2012-09-01T10:00:00+00:00</published>
-      <updated>2012-09-01T10:00:00+00:00</updated>
-      <id>/en/blog/a-full-and-comprehensive-style-test</id>
-      <content type="html" xml:base="/en/blog/a-full-and-comprehensive-style-test">&lt;p&gt;Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.&lt;/p&gt;
+      <link href="http://localhost:4001/en/blog/a-full-and-comprehensive-style-test" rel="alternate" type="text/html" title="A Full and Comprehensive Style Test" />
+      <published>2012-09-01T14:30:00+04:30</published>
+      <updated>2012-09-01T14:30:00+04:30</updated>
+      <id>http://localhost:4001/en/blog/a-full-and-comprehensive-style-test</id>
+      <content type="html" xml:base="http://localhost:4001/en/blog/a-full-and-comprehensive-style-test">&lt;p&gt;Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.&lt;/p&gt;
 
 
 &lt;hr /&gt;

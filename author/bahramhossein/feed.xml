@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="/en/author/bahramhossein/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="/en/" rel="alternate" type="text/html" />
-  <updated>2018-11-10T22:19:52+00:00</updated>
-  <id>/en/author/bahramhossein/feed.xml</id>
+  <link href="http://localhost:4001/en/author/bahramhossein/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4001/en/" rel="alternate" type="text/html" />
+  <updated>2018-11-15T18:41:30+03:30</updated>
+  <id>http://localhost:4001/en/author/bahramhossein/feed.xml</id>
 
   
   
@@ -35,11 +35,11 @@
   
     <entry>
       <title type="html">Writing Essay (Part 2)</title>
-      <link href="/en/blog/IELTS-Essay-2" rel="alternate" type="text/html" title="Writing Essay (Part 2)" />
-      <published>2018-10-09T10:18:00+00:00</published>
-      <updated>2018-10-09T10:18:00+00:00</updated>
-      <id>/en/blog/IELTS-Essay-2</id>
-      <content type="html" xml:base="/en/blog/IELTS-Essay-2">&lt;p&gt;When facing a writing task, there are five possible forms of questions. We’ll help you have an idea of what to do with the question. These are the five types:
+      <link href="http://localhost:4001/en/blog/IELTS-Essay-2" rel="alternate" type="text/html" title="Writing Essay (Part 2)" />
+      <published>2018-10-09T13:48:00+03:30</published>
+      <updated>2018-10-09T13:48:00+03:30</updated>
+      <id>http://localhost:4001/en/blog/IELTS-Essay-2</id>
+      <content type="html" xml:base="http://localhost:4001/en/blog/IELTS-Essay-2">&lt;p&gt;When facing a writing task, there are five possible forms of questions. We’ll help you have an idea of what to do with the question. These are the five types:
 Opinion Essay Questions
  Discussion Essay Questions
 Solution Essay Questions
@@ -79,11 +79,11 @@ Each of them will be explained one by one in the coming weeks.&lt;/p&gt;</conten
   
     <entry>
       <title type="html">Writing Essay</title>
-      <link href="/en/blog/IELTS-Essay" rel="alternate" type="text/html" title="Writing Essay" />
-      <published>2018-10-08T10:18:00+00:00</published>
-      <updated>2018-10-08T10:18:00+00:00</updated>
-      <id>/en/blog/IELTS-Essay</id>
-      <content type="html" xml:base="/en/blog/IELTS-Essay">&lt;p&gt;For writing a good essay, there are many steps you need to take. But before taking those steps you need to be informed on the topics. The most frequent topics are:
+      <link href="http://localhost:4001/en/blog/IELTS-Essay" rel="alternate" type="text/html" title="Writing Essay" />
+      <published>2018-10-08T13:48:00+03:30</published>
+      <updated>2018-10-08T13:48:00+03:30</updated>
+      <id>http://localhost:4001/en/blog/IELTS-Essay</id>
+      <content type="html" xml:base="http://localhost:4001/en/blog/IELTS-Essay">&lt;p&gt;For writing a good essay, there are many steps you need to take. But before taking those steps you need to be informed on the topics. The most frequent topics are:
 Art&lt;/p&gt;
 
 &lt;p&gt;Business &amp;amp; Money&lt;/p&gt;
@@ -162,11 +162,11 @@ Art&lt;/p&gt;
   
     <entry>
       <title type="html">A Full and Comprehensive Style Test</title>
-      <link href="/en/blog/a-full-and-comprehensive-style-test" rel="alternate" type="text/html" title="A Full and Comprehensive Style Test" />
-      <published>2012-09-01T10:00:00+00:00</published>
-      <updated>2012-09-01T10:00:00+00:00</updated>
-      <id>/en/blog/a-full-and-comprehensive-style-test</id>
-      <content type="html" xml:base="/en/blog/a-full-and-comprehensive-style-test">&lt;p&gt;Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.&lt;/p&gt;
+      <link href="http://localhost:4001/en/blog/a-full-and-comprehensive-style-test" rel="alternate" type="text/html" title="A Full and Comprehensive Style Test" />
+      <published>2012-09-01T14:30:00+04:30</published>
+      <updated>2012-09-01T14:30:00+04:30</updated>
+      <id>http://localhost:4001/en/blog/a-full-and-comprehensive-style-test</id>
+      <content type="html" xml:base="http://localhost:4001/en/blog/a-full-and-comprehensive-style-test">&lt;p&gt;Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.&lt;/p&gt;
 
 
 &lt;hr /&gt;
@@ -617,11 +617,11 @@ c.draw = function() {
   
     <entry>
       <title type="html">Out to Sea</title>
-      <link href="/en/blog/out-to-sea" rel="alternate" type="text/html" title="Out to Sea" />
-      <published>1912-07-24T10:18:00+00:00</published>
-      <updated>1912-07-24T10:18:00+00:00</updated>
-      <id>/en/blog/out-to-sea</id>
-      <content type="html" xml:base="/en/blog/out-to-sea">&lt;p&gt;I had this story from one who had no business to tell it to me, or to any other. I may credit the seductive influence of an old vintage upon the narrator for the beginning of it, and my own skeptical incredulity during the days that followed for the balance of the strange tale.&lt;/p&gt;
+      <link href="http://localhost:4001/en/blog/out-to-sea" rel="alternate" type="text/html" title="Out to Sea" />
+      <published>1912-07-24T13:48:00+03:30</published>
+      <updated>1912-07-24T13:48:00+03:30</updated>
+      <id>http://localhost:4001/en/blog/out-to-sea</id>
+      <content type="html" xml:base="http://localhost:4001/en/blog/out-to-sea">&lt;p&gt;I had this story from one who had no business to tell it to me, or to any other. I may credit the seductive influence of an old vintage upon the narrator for the beginning of it, and my own skeptical incredulity during the days that followed for the balance of the strange tale.&lt;/p&gt;
 
 &lt;p&gt;When my convivial host discovered that he had told me so much, and that I was prone to doubtfulness, his foolish pride assumed the task the old vintage had commenced, and so he unearthed written evidence in the form of musty manuscript, and dry official records of the British Colonial Office to support many of the salient features of his remarkable narrative.&lt;/p&gt;
 
@@ -727,11 +727,11 @@ c.draw = function() {
   
     <entry>
       <title type="html">Looking-Glass house</title>
-      <link href="/en/blog/looking-glass-house" rel="alternate" type="text/html" title="Looking-Glass house" />
-      <published>1871-03-18T10:18:00+00:00</published>
-      <updated>1871-03-18T10:18:00+00:00</updated>
-      <id>/en/blog/looking-glass-house</id>
-      <content type="html" xml:base="/en/blog/looking-glass-house">&lt;p&gt;One thing was certain, that the white kitten had had nothing to do with it:— it was the black kitten’s fault entirely. For the white kitten had been having its face washed by the old cat for the last quarter of an hour (and bearing it pretty well, considering); so you see that it couldn’t have had any hand in the mischief.
+      <link href="http://localhost:4001/en/blog/looking-glass-house" rel="alternate" type="text/html" title="Looking-Glass house" />
+      <published>1871-03-18T13:48:00+03:30</published>
+      <updated>1871-03-18T13:48:00+03:30</updated>
+      <id>http://localhost:4001/en/blog/looking-glass-house</id>
+      <content type="html" xml:base="http://localhost:4001/en/blog/looking-glass-house">&lt;p&gt;One thing was certain, that the white kitten had had nothing to do with it:— it was the black kitten’s fault entirely. For the white kitten had been having its face washed by the old cat for the last quarter of an hour (and bearing it pretty well, considering); so you see that it couldn’t have had any hand in the mischief.
 The way Dinah washed her children’s faces was this: first she held the poor thing down by its ear with one paw, and then with the other paw she rubbed its face all over, the wrong way, beginning at the nose: and just now, as I said, she was hard at work on the white kitten, which was lying quite still and trying to purr — no doubt feeling that it was all meant for its good.
 But the black kitten had been finished with earlier in the afternoon, and so, while Alice was sitting curled up in a corner of the great arm-chair, half talking to herself and half asleep, the kitten had been having a grand game of romps with the ball of worsted Alice had been trying to wind up, and had been rolling it up and down till it had all come undone again; and there it was, spread over the hearth-rug, all knots and tangles, with the kitten running after its own tail in the middle.&lt;/p&gt;
 
@@ -790,11 +790,11 @@ The poor King looked puzzled and unhappy, and struggled with the pencil for some
   
     <entry>
       <title type="html">Down The Rabbit Hole</title>
-      <link href="/en/blog/down-the-rabbit-hole" rel="alternate" type="text/html" title="Down The Rabbit Hole" />
-      <published>1865-11-26T10:18:00+00:00</published>
-      <updated>1865-11-26T10:18:00+00:00</updated>
-      <id>/en/blog/down-the-rabbit-hole</id>
-      <content type="html" xml:base="/en/blog/down-the-rabbit-hole">&lt;p&gt;Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, ‘and what is the use of a book,’ thought Alice ‘without pictures or conversation?’&lt;/p&gt;
+      <link href="http://localhost:4001/en/blog/down-the-rabbit-hole" rel="alternate" type="text/html" title="Down The Rabbit Hole" />
+      <published>1865-11-26T13:48:00+03:30</published>
+      <updated>1865-11-26T13:48:00+03:30</updated>
+      <id>http://localhost:4001/en/blog/down-the-rabbit-hole</id>
+      <content type="html" xml:base="http://localhost:4001/en/blog/down-the-rabbit-hole">&lt;p&gt;Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, ‘and what is the use of a book,’ thought Alice ‘without pictures or conversation?’&lt;/p&gt;
 
 &lt;p&gt;So she was considering in her own mind (as well as she could, for the hot day made her feel very sleepy and stupid), whether the pleasure of making a daisy-chain would be worth the trouble of getting up and picking the daisies, when suddenly a White Rabbit with pink eyes ran close by her.&lt;/p&gt;
 
@@ -874,11 +874,11 @@ The poor King looked puzzled and unhappy, and struggled with the pencil for some
   
     <entry>
       <title type="html">Gettysburg Address</title>
-      <link href="/en/blog/gettysburg-address" rel="alternate" type="text/html" title="Gettysburg Address" />
-      <published>1863-11-19T10:18:00+00:00</published>
-      <updated>1863-11-19T10:18:00+00:00</updated>
-      <id>/en/blog/gettysburg-address</id>
-      <content type="html" xml:base="/en/blog/gettysburg-address">&lt;p&gt;Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.&lt;/p&gt;
+      <link href="http://localhost:4001/en/blog/gettysburg-address" rel="alternate" type="text/html" title="Gettysburg Address" />
+      <published>1863-11-19T13:48:00+03:30</published>
+      <updated>1863-11-19T13:48:00+03:30</updated>
+      <id>http://localhost:4001/en/blog/gettysburg-address</id>
+      <content type="html" xml:base="http://localhost:4001/en/blog/gettysburg-address">&lt;p&gt;Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.&lt;/p&gt;
 
 &lt;p&gt;Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this.&lt;/p&gt;
 
