@@ -1,15 +1,10 @@
 ---
-label: Class
+label: Post
 hide_body: false
 is_partial: false
 fields:
 - name: title
   label: Title
-  type: text
-  hidden: false
-  default: ''
-- name: subclass
-  label: Subclass
   type: text
   hidden: false
   default: ''
@@ -34,5 +29,6 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/news/2018-11-15-test.md
 - _posts/blog/2018-11-15-test.md
 - _posts/classes/2018-11-01-toastmasters.md
