@@ -34,5 +34,5 @@ fields:
   hidden: false
   default: ''
 pages:
-- _posts/blog/test.md
+- _posts/blog/2018-11-15-test.md
 - _posts/classes/2018-11-01-toastmasters.md

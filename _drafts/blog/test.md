@@ -1,5 +1,10 @@
 ---
 title: test
 date: 2018-11-15 19:35
+subclass: ''
+cover: "/assets/images/posts/design.jpg"
+tags: []
+author: bineshafza
 
 ---
+![](/en/assets/images/posts/water.jpg)
