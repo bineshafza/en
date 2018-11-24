@@ -1,6 +1,6 @@
 ---
 title: IELTS Speaking Tip 2
-date: 2018-11-24 17:14:48 +0330
+date: 2018-11-23 17:14:48 +0330
 cover: "/assets/images/posts/tags.jpg"
 tags:
 - IELTS
@@ -31,4 +31,4 @@ PRESENT:               ---------------------------------------------------------
 
 FUTURE:                -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------.
 
-YOU CAN RECORD YOUR VOICE AND SEND IT TO OUR [Email adress](mailto: info@bineshafza.ir) TO GET FEDBACK.
+YOU CAN RECORD YOUR VOICE AND SEND IT TO OUR [Email address](mailto: info@bineshafza.ir) TO GET FEEDBACK.
