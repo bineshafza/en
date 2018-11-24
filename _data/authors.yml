@@ -14,7 +14,18 @@ bahramhossein:
   location: Tehran, Iran
   url_full: http://hannah.wf/
   url: hannah.wf
-  bio: Teaching is learning twice.
+  bio: Teaching is a temporary job, learning is not.
+  picture: assets/images/authors/bahram.jpg
+  facebook: False
+  twitter: erisds
+  cover: assets/images/authors/bahram-cover.jpg
+omidroshandel:
+  username: omidroshandel
+  name: Omid Roshandel
+  location: Tehran, Iran
+  url_full: http://hannah.wf/
+  url: hannah.wf
+  bio: IELTS Instructor.
   picture: assets/images/authors/bahram.jpg
   facebook: False
   twitter: erisds
