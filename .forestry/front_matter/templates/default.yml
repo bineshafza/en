@@ -29,5 +29,6 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/blog/ielts-speaking-tip-2.md
 - _posts/blog/2018-11-24-ielts-speaking-tip-1.md
 - _posts/classes/2018-11-01-toastmasters.md
