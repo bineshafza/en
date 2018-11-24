@@ -1,6 +1,6 @@
 ---
 title: IELTS Speaking Tip 1
-date: 2018-11-24 16:56:28 +0330
+date: 2018-11-17 16:56:28 +0330
 cover: "/assets/images/posts/design.jpg"
 tags:
 - ielts
