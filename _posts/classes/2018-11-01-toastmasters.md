@@ -4,7 +4,7 @@ date: 2018-11-01 00:00:00 +0000
 subclass: ''
 cover: "/assets/images/posts/Toastmasters.jpg"
 tags: []
-author: Bineshafza
+author: bineshafza
 
 ---
 Our Toastmasters Classes are starting from next Sunday. 
