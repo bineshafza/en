@@ -29,10 +29,12 @@ Read the question and the answer below to get a better understanding of how tell
 
 ### IT’S YOUR TURN NOW!
 
-Read the following question and feel free to say NO! record your voice and send it to our admins to get feedback.
+Read the following question and feel free to say NO! record your voice and send it to me to get feedback.
 
 **Has television changed your life in any way?**
 
 **I’m gonna say NO…**
 
-Send your recorded voice to [our email address](mailto:info@bineshafza.ir "Binesh Afza Email").
+Please click on the link below to upload your voice.
+
+[Upload File](https://goo.gl/forms/QVnmbAO3JXnXKrSJ3)
