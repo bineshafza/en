@@ -325,6 +325,11 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     width: 1.5rem;
 }
 
+.social-link-li svg {
+    height: 1.5rem;
+    width: 1.5rem;
+}
+
 .social-link-in svg {
     stroke: #f4f8fb;
     stroke-width: 2px;
