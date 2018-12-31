@@ -15,7 +15,7 @@ This is a full-featured port of Ghost's default theme [Casper](https://github.co
 
 
 ## Features
-
+Test
 * Out of the box support for multiple authors (via `_data/authors.yml`)
 * Full author information including: picture, bio, website, twitter, facebook, etc.
 * Tag description(s) and personalised covers (via `_data/tags.yml`)
